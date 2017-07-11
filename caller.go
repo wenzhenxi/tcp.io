@@ -15,10 +15,12 @@ type caller struct {
 func newCaller(f interface{}) (*caller, error) {
 	// 获取传入接口的类型
 	fv := reflect.ValueOf(f)
+
 	// 如果传入的不是方式异常
 	if fv.Kind() != reflect.Func {
 		return nil, fmt.Errorf("f is not func")
 	}
+
 	ft := fv.Type()
 	// 如果方法体不需要传入参数则直接返回
 	if ft.NumIn() == 0 {
@@ -31,12 +33,14 @@ func newCaller(f interface{}) (*caller, error) {
 	for i, n := 0, ft.NumIn(); i < n; i++ {
 		args[i] = ft.In(i)
 	}
+
 	// 判断第一个传入的参数名称是否是socket
 	needSocket := false
 	if args[0].Name() == "Socket" {
 		args = args[1:]
 		needSocket = true
 	}
+
 	// 返回对象
 	return &caller{
 		Func:       fv,

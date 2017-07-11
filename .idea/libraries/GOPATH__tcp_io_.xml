@@ -1,32 +1,40 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;tcp.io&gt;">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../kafka" />
-      <root url="file://$PROJECT_DIR$/../../../SUNMISOA" />
-      <root url="file://$PROJECT_DIR$/../.." />
-      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
-      <root url="file://$PROJECT_DIR$/../../../go" />
-      <root url="file://$PROJECT_DIR$/../../../sunmi-socket.io" />
-      <root url="file://$PROJECT_DIR$/../../../gop2p" />
-      <root url="file://$PROJECT_DIR$/../../../git.apache.org" />
-      <root url="file://$PROJECT_DIR$/../../../golang.org" />
       <root url="file://$PROJECT_DIR$/../../../phalgo-sample" />
-      <root url="file://$PROJECT_DIR$/../../../SUNMIGO" />
+      <root url="file://$PROJECT_DIR$/../../../sunmi-socket.io" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../sunmi-service-test" />
+      <root url="file://$PROJECT_DIR$/../../../go" />
       <root url="file://$PROJECT_DIR$/../../../tob-service" />
+      <root url="file://$PROJECT_DIR$/../../../zsc" />
+      <root url="file://$PROJECT_DIR$/../../../BAK" />
+      <root url="file://$PROJECT_DIR$/../../../goa-adder" />
+      <root url="file://$PROJECT_DIR$/../../../git.apache.org" />
+      <root url="file://$PROJECT_DIR$/../../../SUNMIGO" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../SUNMISOA" />
+      <root url="file://$PROJECT_DIR$/../../../kafka" />
+      <root url="file://$PROJECT_DIR$/../../../gop2p" />
     </CLASSES>
     <SOURCES>
-      <root url="file://$PROJECT_DIR$/../../../kafka" />
-      <root url="file://$PROJECT_DIR$/../../../SUNMISOA" />
-      <root url="file://$PROJECT_DIR$/../.." />
-      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
-      <root url="file://$PROJECT_DIR$/../../../go" />
-      <root url="file://$PROJECT_DIR$/../../../sunmi-socket.io" />
-      <root url="file://$PROJECT_DIR$/../../../gop2p" />
-      <root url="file://$PROJECT_DIR$/../../../git.apache.org" />
-      <root url="file://$PROJECT_DIR$/../../../golang.org" />
       <root url="file://$PROJECT_DIR$/../../../phalgo-sample" />
-      <root url="file://$PROJECT_DIR$/../../../SUNMIGO" />
+      <root url="file://$PROJECT_DIR$/../../../sunmi-socket.io" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../sunmi-service-test" />
+      <root url="file://$PROJECT_DIR$/../../../go" />
       <root url="file://$PROJECT_DIR$/../../../tob-service" />
+      <root url="file://$PROJECT_DIR$/../../../zsc" />
+      <root url="file://$PROJECT_DIR$/../../../BAK" />
+      <root url="file://$PROJECT_DIR$/../../../goa-adder" />
+      <root url="file://$PROJECT_DIR$/../../../git.apache.org" />
+      <root url="file://$PROJECT_DIR$/../../../SUNMIGO" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../SUNMISOA" />
+      <root url="file://$PROJECT_DIR$/../../../kafka" />
+      <root url="file://$PROJECT_DIR$/../../../gop2p" />
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$" />
